@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+
+  height: 80px;
+}
+
+.App-header {
+  background-color: #e3f0db;
+  height: 150px;
+  padding: 20px;
+  color: #28283c;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.email-form {
+  width: 50%;
+  background-color: powderblue;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

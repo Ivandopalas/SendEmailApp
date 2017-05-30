@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmailClient/EmailClient.iml" filepath="$PROJECT_DIR$/EmailClient/EmailClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SendEmailProj.iml" filepath="$PROJECT_DIR$/SendEmailProj.iml" />
+    </modules>
+  </component>
+</project>
